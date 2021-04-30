@@ -1,0 +1,7 @@
+name: TeleportationBall
+version: 1.2.0
+author: LethalFlame
+main: com.lethalflame.teleportationball.TeleportationBall
+api-version: 1.8
+commands:
+  sb:
